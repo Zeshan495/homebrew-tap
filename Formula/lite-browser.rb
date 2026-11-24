@@ -1,9 +1,9 @@
 class LiteBrowser < Formula
   desc "Lightweight native macOS web browser with Google search and DNS self-repair"
   homepage "https://github.com/Zeshan495/lite-browser"
-  url "https://github.com/Zeshan495/lite-browser/archive/refs/tags/v1.0.5.tar.gz"
-  version "1.0.5"
-  sha256 "95a6093dc3e52636bc3c9d549e145e076ec48c476fc6034ad3bbee119939e280"
+  url "https://github.com/Zeshan495/lite-browser/archive/refs/tags/v1.0.7.tar.gz"
+  version "1.0.7"
+  sha256 "75faa56b8dbdc33a90902ee929ac1846daed4d7787f05dd8a24b91028069b992"
   license "MIT"
   head "https://github.com/Zeshan495/lite-browser.git", branch: "main"
 
